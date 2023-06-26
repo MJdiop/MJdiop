@@ -1,7 +1,7 @@
 ### Hi there 👋
   
 
-### <div align="center">I'm Mbaye Jacques DIOP, a full-time Software Frontend developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Mbaye Jacques DIOP, a full-time Frontend Software Engineer React | Next.js | Typescript 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working  software development   
