@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mbaye Jacques DIOP, full-stack javascript developer focused on the frontend. Recognized for my user experience skills and ability to learn new technologies quickly.
   
 
-### <div align="center">A full-time Frontend Software Engineer React | Next.js | Typescript 👨‍💻 🚀</div>  
+### <div align="center">A full-time Frontend Software Engineer React | React Native | Next.js | Typescript 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working  software development   
