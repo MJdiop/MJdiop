@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mbaye Jacques DIOP, full-stack javascript developer focused on the frontend. Recognized for my user experience skills and ability to learn new technologies quickly.
+### Hi there 👋 I'm Mbaye Jacques DIOP, Frontend software engineer with experience in building websites, web and mobile applications. I specialize in JavaScript and have professional experience with React, React Native. I also have experience with Angular, and micro-front-end architecture, recognized for my user .
   
 
 ### <div align="center">A full-time Frontend Software Engineer React | React Native | Next.js | Typescript 👨‍💻 🚀</div>  
